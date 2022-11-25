@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="katman_1" data-name="katman 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #84d6d7;
+      }
+
+      .cls-2 {
+        fill: #131112;
+      }
+
+      .cls-3 {
+        fill: #11a9bc;
+      }
+
+      .cls-4 {
+        fill: #33bbc7;
+      }
+    </style>
+  </defs>
+  <g id="layer1" transform="translate(188.64431,-115.48607)">
+    <g id="g10" transform="matrix(0.4160462,0,0,-0.41186696,-342.59264,291.23382)">
+      <g id="g12" transform="scale(0.1)">
+        <path id="path32" class="cls-2" d="M149.84,44.39v6.09h12.34v6.05h-12.34v9.49h-7.91v-27.67h21.92v6.05h-14.02"/>
+        <path id="path34" class="cls-2" d="M175.31,44.55h-8.59v-6.21h25.04v6.21h-8.54v21.46h-7.91v-21.46"/>
+        <path id="path36" class="cls-2" d="M212.77,66.01l-5.79-8.58-5.71,8.58h-9.02l10.18-13.99-9.74-13.68h8.9l5.59,7.99,5.51-7.99h8.55l-9.74,13.36,10.38,14.31h-9.1"/>
+        <path id="path38" class="cls-1" d="M92.85,72h11.93v-11.8h-11.93v11.8"/>
+        <path id="path40" class="cls-4" d="M115.36,43.88h-22.51v11.81h26.61v-11.8h-4.09"/>
+        <path id="path42" class="cls-3" d="M92.85,27.57v11.8h36.95v-11.8h-36.95"/>
+        <path id="path44" class="cls-4" d="M78.18,55.69h11.92v-11.81h-11.92v11.81"/>
+      </g>
+    </g>
+  </g>
+</svg>
