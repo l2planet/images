@@ -1,11 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="katman_1" data-name="katman 1" xmlns="http://www.w3.org/2000/svg" width="300" height="100" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 100">
-  <defs>
-    <style>
-      .cls-1 {
-        isolation: isolate;
-      }
-    </style>
-  </defs>
-  <image class="cls-1" width="280" height="280" transform="translate(100.25) scale(.36)" xlink:href="../BanklessDAO.png"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="katman_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 100" style="enable-background:new 0 0 300 100;" xml:space="preserve">
+<image style="overflow:visible;" width="280" height="280" xlink:href="../BanklessDAO.png"  transform="matrix(0.3571 0 0 0.3571 108 0)">
+</image>
 </svg>
